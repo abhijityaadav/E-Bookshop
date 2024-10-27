@@ -1,0 +1,21 @@
+.display {
+    display: flex;
+    align-items: flex-start; /* Align items to the start of the flex container */
+    
+}
+.showloading{
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    color: black;
+}
+
+.singlecontent{
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
